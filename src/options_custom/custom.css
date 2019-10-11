@@ -1,0 +1,13 @@
+/*
+// Add your own style rules here, not in css/main.css
+// or css/setting.css for easy updating reasons.
+*/
+
+label {
+  display: block;
+  clear: both;
+}
+input {
+  margin-top: 0 !important;
+  margin-bottom: 10px !important;
+}
